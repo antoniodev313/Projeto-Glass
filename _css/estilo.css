@@ -12,7 +12,7 @@ body
 }
 
 div#interface{
-	width: 1000px;
+	width: 1010px;
 	background-color: #ffffff;
 	margin: -20px auto 10px auto;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
@@ -213,7 +213,7 @@ table#tabelaspec td.cd{
 /*FORMATAÇAO ASIDE*/
 aside#lateral{
 	display: block;
-	width: 370px;
+	width: 390px;
 	float: right;
 	background-color: #dddddd;
 	padding: 10px;
